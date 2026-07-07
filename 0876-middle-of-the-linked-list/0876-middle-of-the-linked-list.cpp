@@ -17,9 +17,11 @@ public:
             length++;
             temp = temp->next;
         }
-        int mididx = (length/2);
+        int mididx = (length/2) +1 ;
         ListNode* mid = head;
-        for(int i = 1;i<=mididx;i++){
+       while(mid != NULL){
+        mididx = mididx - 1;
+        if(mididx == 0 ) break;
             mid = mid->next;
         }
         return mid;
