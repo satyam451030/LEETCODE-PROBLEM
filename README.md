@@ -98,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
