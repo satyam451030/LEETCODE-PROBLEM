@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0347-top-k-frequent-elements) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
