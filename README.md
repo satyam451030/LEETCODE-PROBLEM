@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0125-valid-palindrome) |
 | [0876-middle-of-the-linked-list](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0876-middle-of-the-linked-list) |
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0219-contains-duplicate-ii) |
