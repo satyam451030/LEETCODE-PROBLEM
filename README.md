@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0238-product-of-array-except-self) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0704-binary-search) |
 ## Bit Manipulation
