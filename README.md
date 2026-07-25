@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0035-search-insert-position) |
+| [0078-subsets](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0217-contains-duplicate) |
@@ -127,6 +128,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
