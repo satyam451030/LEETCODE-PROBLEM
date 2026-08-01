@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0704-binary-search) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1572-matrix-diagonal-sum](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/1572-matrix-diagonal-sum) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0560-subarray-sum-equals-k) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Divide and Conquer
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
