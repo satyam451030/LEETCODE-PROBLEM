@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0704-binary-search) |
+| [1480-running-sum-of-1d-array](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1572-matrix-diagonal-sum](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0560-subarray-sum-equals-k) |
+| [1480-running-sum-of-1d-array](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/1480-running-sum-of-1d-array) |
 ## String
 |  |
 | ------- |
