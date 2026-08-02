@@ -26,9 +26,7 @@ if(n == length){
 }
 ListNode* temp1 = head;
 
-int m = length - n + 1;
-int idx = m - 1;
-for(int i = 1;i <= idx -1;i++){
+for(int i = 1;i < length - n;i++){
     temp1 = temp1->next;
 }
 temp1->next = temp1->next->next;
