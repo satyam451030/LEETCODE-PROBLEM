@@ -6,11 +6,10 @@ public:
 
 int sum = 0;
         for(int i = 0;i < rows;i++){
-            for(int j = 0;j < cols;j++){
-                if(i == j || i + j == rows - 1){
-                   sum += mat[i][j]; 
+            sum += mat[i][i]; 
+                if(i != rows -i- 1){
+                   sum += mat[i][rows -i- 1]; 
                 }
-            }
         }
         return sum;
     }
