@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0876-middle-of-the-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -164,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/1572-matrix-diagonal-sum) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
