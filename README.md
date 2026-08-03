@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0876-middle-of-the-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0876-middle-of-the-linked-list) |
 ## Array
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0073-set-matrix-zeroes) |
+| [0160-intersection-of-two-linked-lists](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0242-valid-anagram) |
