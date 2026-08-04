@@ -172,4 +172,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0206-reverse-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
