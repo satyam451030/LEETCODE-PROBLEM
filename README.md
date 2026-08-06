@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0268-missing-number) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -192,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0112-path-sum) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
