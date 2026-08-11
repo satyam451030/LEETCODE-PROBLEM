@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0560-subarray-sum-equals-k) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0334-increasing-triplet-subsequence) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Math
 |  |
@@ -209,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/3345-smallest-divisible-digit-product-i) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
