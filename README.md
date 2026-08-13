@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0125-valid-palindrome) |
