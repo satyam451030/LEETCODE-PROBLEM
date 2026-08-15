@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0238-product-of-array-except-self) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0242-valid-anagram) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0268-missing-number) |
@@ -119,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -267,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
