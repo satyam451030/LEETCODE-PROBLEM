@@ -7,7 +7,7 @@ public:
 
       while(j <= k){
         if( nums[j] == 0){
-            nums[j] = nums[i];
+            swap(nums[j],nums[i]);
             nums[i] = 0;
             i++;
             j++;
