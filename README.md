@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0876-middle-of-the-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0881-boats-to-save-people) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -239,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0142-linked-list-cycle-ii) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
