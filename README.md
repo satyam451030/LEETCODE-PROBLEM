@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3904-smallest-stable-index-ii](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/1480-running-sum-of-1d-array) |
+| [3904-smallest-stable-index-ii](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/3904-smallest-stable-index-ii) |
 ## String
 |  |
 | ------- |
