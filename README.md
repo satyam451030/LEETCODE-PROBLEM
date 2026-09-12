@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0238-product-of-array-except-self) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/1572-matrix-diagonal-sum) |
 ## Recursion
@@ -257,11 +259,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -305,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0169-majority-element) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
