@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0238-product-of-array-except-self) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0048-rotate-image) |
+| [0204-count-primes](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0268-missing-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Binary Search
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Longest Increasing Subsequence
 |  |
@@ -329,4 +332,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0133-clone-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/1971-find-if-path-exists-in-graph) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
