@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -132,17 +134,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0977-squares-of-a-sorted-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0912-sort-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -310,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0912-sort-an-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -362,4 +368,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/1757-recyclable-and-low-fat-products) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
