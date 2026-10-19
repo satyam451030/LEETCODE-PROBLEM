@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0455-assign-cookies) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0217-contains-duplicate) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/0268-missing-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/satyam451030/LEETCODE-PROBLEM/tree/master/3345-smallest-divisible-digit-product-i) |
