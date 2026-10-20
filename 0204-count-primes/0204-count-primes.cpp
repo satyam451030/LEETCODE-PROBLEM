@@ -3,7 +3,7 @@ public:
     int countPrimes(int n) {
         if (n <= 1)   return 0;
         vector<char> isPrime(n, 1);
-        isPrime[0] = isPrime[1] = 0;
+        // isPrime[0] = isPrime[1] = 0;
 
         for (int i = 2; i * i < n; i++) {
             if (isPrime[i]) {
